@@ -2,7 +2,7 @@
 > Gitstar is a React application designed to show the most starred projects uploaded to GitHub in the desired space of time.
 
 
-[![Screenshot](https://i.imgur.com/ItHcYOo.png)](https://github.com/thekaranchauhan/Gitstar)
+[![Screenshot](./gitstar.png)](https://github.com/thekaranchauhan/Gitstar)
 
 ## Table of Contents 
 - [Usage](#Usage)
@@ -74,4 +74,4 @@ Original idea by <a href="https://github.com/kamranahmedse" target=_blank>Kamran
 
 
 - **[MIT license](http://opensource.org/licenses/mit)**
-- Copyright 2020 © <a href="http://nstlopez.com" target="_blank">Néstor</a>.
+- Copyright 2020 © <a href="https;//thekaranchauhan.com" target="_blank">Karan Chauhan</a>.
