@@ -1,15 +1,12 @@
-import './App.css';
+import React from "react";
 import { Box } from "@chakra-ui/react";
 
-import Feed from './Feed';
+import Feed from "./feed";
 
-
-function App() {
+export default function App() {
   return (
-    <Box width=" 100vm " minHeight="100vh">
-    <Feed />
-  </Box>
+    <Box width=" 100vm " minHeight="100vh" bg="#181719">
+      <Feed />
+    </Box>
   );
 }
-
-export default App;

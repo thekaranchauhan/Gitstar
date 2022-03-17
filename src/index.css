@@ -1,7 +1,7 @@
-body{
-  background : #181719;
-  -ms-overflow-style: none;  /* IE and Edge */
-  scrollbar-width: none;  /* Firefox */
+body {
+  background: #181719;
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
 }
 
 body::-webkit-scrollbar {
