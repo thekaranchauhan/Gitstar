@@ -1,9 +1,14 @@
 import './App.css';
+import { Box } from "@chakra-ui/react";
+
+import Feed from './Feed';
+
 
 function App() {
   return (
-    <div className="App">
-    </div>
+    <Box width=" 100vm " minHeight="100vh">
+    <Feed />
+  </Box>
   );
 }
 
